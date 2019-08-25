@@ -6,3 +6,4 @@ The modules in the course are as follows.
 |Module | Course Contents |
 |---|---|
 |01 | Introduction to Python |
+|02 | Input processing output	|
