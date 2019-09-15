@@ -9,3 +9,4 @@ The modules in the course are as follows.
 |02 | Input processing output	|
 |03 | Decision structures |
 |04 | Repetition structures	|
+|05 | Functions	|
