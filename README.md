@@ -10,3 +10,4 @@ The modules in the course are as follows.
 |03 | Decision structures |
 |04 | Repetition structures	|
 |05 | Functions	|
+|06 | Files and strings |	
