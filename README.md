@@ -11,3 +11,4 @@ The modules in the course are as follows.
 |04 | Repetition structures	|
 |05 | Functions	|
 |06 | Files and strings |	
+|07 | Sequences and sets |
