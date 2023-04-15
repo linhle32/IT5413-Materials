@@ -1,5 +1,5 @@
 # IT5413-Mateirals
-This repository contains learning materials for IT5413.  
+This repository contains learning materials for IT5413 - introduction to Python programming
  
 The modules in the course are as follows.
 
